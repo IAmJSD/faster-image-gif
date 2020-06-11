@@ -5,3 +5,5 @@ A copy of the `src/image/gif` folder from my Go fork (where the main addition is
 - Allows for easily done external benchmarks.
 
 Please note pull requests will NOT be accepted to this repository. They should be done to [golang/go](https://github.com/golang/go).
+
+![](https://i.imgur.com/g3YLKrw.png)
